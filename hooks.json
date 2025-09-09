@@ -51,20 +51,20 @@
     },
     {
       "n": "getOldNpcOverheadArray",
-      "c": "hh",
-      "p": "dj",
+      "c": "hg",
+      "p": "bb",
       "m": 1
     },
     {
       "n": "getNewNpcOverheadObject",
-      "c": "dt",
-      "p": "as",
+      "c": "da",
+      "p": "ap",
       "m": 1
     },
     {
       "n": "getNewNpcOverheadArray",
-      "c": "wt",
-      "p": "aw",
+      "c": "wb",
+      "p": "ab",
       "m": 1
     },
     {
